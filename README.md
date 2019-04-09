@@ -1,2 +1,2 @@
 # knightmare
-Game created with unreal engine during a game development class
+3D game created with unreal engine inspired by monty python.
